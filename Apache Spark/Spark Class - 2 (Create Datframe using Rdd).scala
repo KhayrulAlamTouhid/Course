@@ -71,4 +71,3 @@ employee.select("first_name".toUpperCase).show
 
 // COMMAND ----------
 
-

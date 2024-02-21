@@ -145,4 +145,3 @@ val new_multiple_df = multiple_df.select($"id", $"first_name", $"country").where
 
 // COMMAND ----------
 
-
